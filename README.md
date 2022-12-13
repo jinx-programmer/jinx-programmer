@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Some secret projects.
-- 🌱 I’m currently learning python.
+- 🌱 I’m a Python Developer.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with velocity documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
